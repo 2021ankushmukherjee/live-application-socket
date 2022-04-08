@@ -12,7 +12,7 @@ app.get("/home", (req,res)=>{
 });
 
 
-server.listen(4000, ()=>{
+server.listen(5000, ()=>{
     console.log("server is running successfully");
 });
 
